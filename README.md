@@ -1,4 +1,5 @@
 # Ulearna Application: Fetch and Display Data from BE - Social Media App 
+Note this code miss dio helper (that have general response and http error handler to chech what is the error) - make file -  app theme.
 
 ## Project Overview
 
